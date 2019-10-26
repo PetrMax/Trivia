@@ -1,6 +1,6 @@
 # Automated QA Testing of the Web Application Trivia
 
-<h3>Description of web application Trivia.</h3>
+<h3>Description of the web application Trivia.</h3>
 Application is intended for the creation of tests and their execution.</br>
 It works on Chrome and Firefox browsers.</br>
 When site opened can be created 3 questions and 4 option answers for each one of them.</br> 
