@@ -34,7 +34,7 @@ When you try Try again, the test starts again.</br>
 When you click the Quit button, the application closes.</br>
 
 <h3>STD</h3>
-When writing the STD, the following types of tests were done:</br>
+The following types of tests were done:</br>
 <b>Sanity</b> in order to verify that the critical functional parts of the application work as expected.</br>
 <b>Functionality</b> to check all available features.</br>
 <b>Error Handling</b> in order to check how the application handles errors.</br>
