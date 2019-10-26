@@ -1,4 +1,4 @@
-# Automated QA Testing Web Application Trivia
+# Automated QA Testing of the Web Application Trivia
 
 <h3>Description of web application Trivia.</h3>
 Application is intended for the creation of tests and their execution.</br>
